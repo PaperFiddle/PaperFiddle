@@ -1,4 +1,6 @@
-### Hi there 👋
+# PaperFiddle
+
+### High-quality digital files for crafters & makers.
 
 <!--
 **PaperFiddle/PaperFiddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
